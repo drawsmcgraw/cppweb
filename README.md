@@ -6,16 +6,20 @@ Crow: https://github.com/ipkn/crow
 
 ### build container(first time may take a while):
 `cd cppbox`
+
 `docker build -t cppbox`
 
 verify install. if it succeeded, this will show a bunch of boost files.
 `docker run -it cppbox:latest bash`
+
 `find usr/ -name libboost*.*`
 
 ### project build build:
 add a volume and run using cppbox image. type exit to leave the container
 `sudo docker run -v ~/jordydev/cppweb:/usr/src/cppweb -it cppbox:latest bash`
+
 `cd /usr/src/cppweb/build/hello_crow/build`
+
 `make`
 
 ### run the web server:
