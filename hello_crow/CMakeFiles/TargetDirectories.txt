@@ -1,0 +1,3 @@
+/home/jordan/jordydev/cppweb/hello_crow/CMakeFiles/rebuild_cache.dir
+/home/jordan/jordydev/cppweb/hello_crow/CMakeFiles/hello_crow.dir
+/home/jordan/jordydev/cppweb/hello_crow/CMakeFiles/edit_cache.dir

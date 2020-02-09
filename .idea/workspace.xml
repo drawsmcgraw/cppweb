@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hello_crow" targetName="hello_crow" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="403f66c5-4b18-4676-9240-7592c7b9f6ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XDuTMUyQlRs357gjcOp9wXVT1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello_crow/CMakeLists.txt" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/hello_crow" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="hello_crow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hello_crow" TARGET_NAME="hello_crow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hello_crow" RUN_TARGET_NAME="hello_crow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="403f66c5-4b18-4676-9240-7592c7b9f6ba" name="Default Changelist" comment="" />
+      <created>1580592992447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580592992447</updated>
+      <workItem from="1580592994155" duration="263000" />
+      <workItem from="1580598554534" duration="945000" />
+      <workItem from="1580614922297" duration="106000" />
+      <workItem from="1580615044624" duration="4245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2622" y="346" width="496" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580616447723">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2622" y="346" width="496" height="387" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1054/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1580616447723" />
+    <state x="1061" y="100" width="759" height="853" key="DiffContextDialog" timestamp="1581227903874">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1061" y="100" width="759" height="853" key="DiffContextDialog/0.0.1920.1054/1920.0.1920.1080/3840.0.1920.1080@0.0.1920.1054" timestamp="1581227903874" />
+    <state x="2663" y="297" width="424" height="482" key="FileChooserDialogImpl" timestamp="1580599257749">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="297" width="424" height="482" key="FileChooserDialogImpl/0.0.1920.1054/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1580599257749" />
+    <state x="1061" y="100" width="759" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581227903874">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1061" y="100" width="759" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1054/1920.0.1920.1080/3840.0.1920.1080@0.0.1920.1054" timestamp="1581227903874" />
+    <state x="2573" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1580615151648">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2573" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1054/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1580615151648" />
+    <state x="1165" y="363" width="540" height="325" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581227954860">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1165" y="363" width="540" height="325" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1054/1920.0.1920.1080/3840.0.1920.1080@0.0.1920.1054" timestamp="1581227954860" />
+  </component>
+</project>
