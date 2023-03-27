@@ -1,0 +1,19 @@
+apiVersion: carto.run/v1alpha1
+kind: Workload
+metadata:
+  name: cpp-web
+  namespace: dev-tap
+  labels:
+    apps.tanzu.vmware.com/workload-type: web
+    app.kubernetes.io/part-of: cpp-web
+  annotations:
+    autoscaling.knative.dev/minScale: "1"
+spec:
+  params:
+  - name: dockerfile
+    value: ./Dockerfile
+  source:
+    git:
+      url: https://github.com/drawsmcgraw/cppweb
+      ref:
+        branch: master
